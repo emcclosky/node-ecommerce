@@ -23,6 +23,7 @@
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
+    "minimist": "^1.2.5",
     "mongodb": "^3.5.3",
     "mongoose": "^5.9.1"
   },
