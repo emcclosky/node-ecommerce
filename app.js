@@ -12,7 +12,6 @@ const csrf = require('csurf');
 const flash = require('connect-flash');
 
 const errorController = require('./controllers/error');
-
 const User = require('./models/user');
 
 const MONGODB_URI = `mongodb+srv://emcclosky:${process.env.DB_PASSWORD}@cluster0-znnig.mongodb.net/shop`;
